@@ -32,6 +32,11 @@ function ContentToHTML(content) {
             htmlContent+= `<p class="author">Written by: <em>${authorContent}</em></p>`;
             continue;
         }
+        if(contentByLine[line].startsWith("Date: ")) {
+            const authorContent = contentByLine[line].replace("Date: ","");
+            htmlContent+= `<p class="date">Published on: <em>${authorContent}</em></p>`;
+            continue;
+        }
         if(contentByLine[line].startsWith("![")) {
             const altText = contentByLine[line].split("![")[1].split("]")[0]
             const imageSource = contentByLine[line].split("![")[1].split("]")[1].split("(")[1].split(")")[0];
@@ -122,6 +127,7 @@ function LoadAndParsePost(blogID) {
         })
         .then(parsedContent => {
             SetContent(parsedContent, "blog-content");
+            document.getElementById("blog-content").setAttribute("blog-id", blogID);
             document.title = document.getElementById("blog-content").querySelector("h1").textContent;
         })
         .catch(error => console.error(error));
