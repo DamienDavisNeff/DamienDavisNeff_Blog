@@ -1,0 +1,105 @@
+:root {
+
+    --font-family: Arial, sans-serif;
+
+    --base-font-size: 1rem;
+    --heading-font-size: 2.5rem;
+    --subheading-font-size: 1.8rem;
+
+    --text-color: #555;
+    --heading-color: #333;
+    --subheading-color: #444;
+    --image-subtitle-color: #888;
+    --author-color: #777;
+    --link-color: #007BFF;
+
+    --body-background-color: #f9f9f9;
+    --background-color: #f9f9f9;
+
+    --border-radius: 3px;
+    --margin: 20px;
+    --padding: 20px;
+    --max-width: 800px;
+
+}
+
+html {
+    background-color: var(--body-background-color)
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    min-height: 100vh;
+    margin: 0;
+}
+
+#blog-content {
+    font-family: var(--font-family);
+    line-height: 1.6;
+    margin: var(--margin);
+    padding: var(--padding);
+    max-width: var(--max-width);
+    background-color: var(--background-color);
+    border-radius: var(--border-radius);
+}
+
+#blog-content h1 {
+    font-size: var(--heading-font-size);
+    color: var(--heading-color);
+    margin-bottom: 10px;
+}
+#blog-content h2 {
+    font-size: var(--subheading-font-size);
+    color: var(--subheading-color);
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+#blog-content p {
+    font-size: var(--base-font-size);
+    color: var(--text-color);
+    margin-bottom: 15px;
+}
+
+#blog-content .author {
+    font-style: italic;
+    color: var(--author-color);
+}
+
+#blog-content img {
+    max-width: 100%;
+    height: auto;
+    margin: 20px 0;
+}
+#blog-content .image-subtitle {
+    font-size: var(--base-font-size);
+    color: var(--image-subtitle-color);
+    text-align: center;
+    margin-top: 5px;
+    font-style: italic;
+    line-height: 1.2; /* Reduced line-height */
+}
+#blog-content .image-source {
+    font-size: 0.875rem;
+    color: #777;
+    text-align: center;
+    margin-top: 3px; /* Reduced margin-top */
+    line-height: 1.2; /* Reduced line-height */
+}
+
+#blog-content .source-title {
+    font-weight: bold;
+    margin-top: 20px;
+}
+#blog-content .source {
+    margin-left: 20px;
+}
+#blog-content .source a {
+    color: var(--link-color);
+    text-decoration: none;
+}
+#blog-content .source a:hover {
+    text-decoration: underline;
+}
