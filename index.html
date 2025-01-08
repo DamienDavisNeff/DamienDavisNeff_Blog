@@ -4,8 +4,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Political Shenanigans</title>
     <link rel="stylesheet" href="/style/index.css">
+    <script src="/scripts/dark-mode-manager.js"></script>
 </head>
-<body>
+<body dark-mode="false">
     <div id="blog-content" blog-id="1">
         <h3>There was a problem loading this article.</h3>
         <b>This could be for various reasons:</b>
@@ -27,5 +28,6 @@
             &copy; 2025 <a href="https://damiendavisneff.com" target="_blank">Damien Davis-Neff</a>. All rights reserved.
         </span>
     </div>
+    <button onclick="toggleDarkMode();" id="darkModeButton">Toggle Dark Mode</button>
 </body>
 </html>

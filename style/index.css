@@ -25,7 +25,20 @@
 }
 
 html {
-    background-color: var(--body-background-color)
+    background-color: var(--body-background-color);
+}
+
+html[dark-mode="true"] {
+    filter:invert();
+} html[dark-mode="true"] img {
+    filter: invert();
+}
+
+#darkModeButton {
+    position: fixed;
+    top: 10px;
+    right: 10px;
+    cursor: pointer;
 }
 
 body {
@@ -91,7 +104,7 @@ body {
 }
 #blog-content .image-source {
     font-size: 0.875rem;
-    color: #777;
+    color: var(--author-color);
     text-align: center;
     margin-top: 3px; /* Reduced margin-top */
     line-height: 1.2; /* Reduced line-height */
