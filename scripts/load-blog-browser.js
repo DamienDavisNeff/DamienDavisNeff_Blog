@@ -17,8 +17,9 @@ function LoadAndBrowse() {
             return LoadBlogPosts(parsedData);
         })
         .then(parsedData => {
-            return DisplayActiveItems();
+            return RemoveCurrentBlogpost();
         })
+        .then(() => InitBrowser())
         .catch(error => {
             console.error(error);
         })
@@ -78,7 +79,7 @@ function ParseBrowserContent(content, id) {
 }
 
 function DisplayBrowserContent(content) {
-    const parent = document.getElementById("all-blog-browser-content");
+    const parent = document.getElementById("placeholder-browser-content");
     let htmlContent = ``;
     htmlContent += `<div class="blog-browser-item" browse-id="${content.id}">`;
     htmlContent += `<img src="${content.image}" alt="${content.altImage}">`;
@@ -90,23 +91,13 @@ function DisplayBrowserContent(content) {
     return;
 }
 
-function DisplayActiveItems(content) {
+function RemoveCurrentBlogpost() {
 
-    const parent = document.getElementById("all-blog-browser-content");
-    const newParent = document.getElementById("blog-browser-content");
-
-    const items = parent.getElementsByClassName("blog-browser-item");
-
+    const items = document.getElementsByClassName("blog-browser-item");
     const activeID = document.getElementById("blog-content").getAttribute("blog-id");
-
-    let newChildrenLength = 0;
 
     for(let a = 0; a < items.length; a++) {
         if(items[a].getAttribute("browse-id") == activeID) items[a].remove();
-        if(newChildrenLength <= 3) {
-            newParent.appendChild(items[a]);
-            newChildrenLength++;
-        }
     }
 
 }
