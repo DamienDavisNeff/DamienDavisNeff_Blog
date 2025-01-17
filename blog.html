@@ -4,10 +4,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Political Shenanigans</title>
     <link rel="stylesheet" href="/style/index.css">
+    <script src="/scripts/root.js"></script>
     <script src="/scripts/dark-mode-manager.js"></script>
 </head>
 <body dark-mode="false">
-    <div id="blog-content" blog-id="1">
+    <div id="error" hidden>
         <h3>There was a problem loading this article.</h3>
         <b>This could be for various reasons:</b>
         <ul>
@@ -16,10 +17,28 @@
         </ul>
         <b>Try reloading the page, enabling JavaScript, or try again later.</b>
     </div>
+    <div id="loading">
+        <h3>Loading Content...</h3>
+    </div>
+    <div id="blog-content" blog-id="1">
+    </div>
+    <div id="blog-browser" type="desktop">
+        <div id="blog-browser-content">
+            <div id="all-blog-browser-content" hidden></div>
+        </div>
+        <div id="buttons">
+            <button>←</button>
+            <button>→</button>
+        </div>
+    </div>
+    
     <script src="/scripts/load-content.js"></script>
+    <script src="/scripts/load-blog-browser.js"></script>
+    <script src="/scripts/blog-browser.js" defer></script>
     <div id="footer" hidden>
         <span id="socials">
             <a href="https://twitter.com/damiendavisneff" target="_blank">Twitter</a>
+            <a href="https://youtube.com/@damiendavisneff" target="_blank">Twitter</a>
             <a href="https://github.com/damiendavisneff" target="_blank">GitHub</a>
             <a href="https://facebook.com" target="_blank" hidden>Facebook</a>
             <a href="https://instagram.com" target="_blank" hidden>Instagram</a>
@@ -28,6 +47,6 @@
             &copy; 2025 <a href="https://damiendavisneff.com" target="_blank">Damien Davis-Neff</a>. All rights reserved.
         </span>
     </div>
-    <button onclick="toggleDarkMode();" id="darkModeButton">Toggle Dark Mode</button>
+    <button onclick="toggleDarkMode();" id="darkModeButton" hidden>Toggle Dark Mode</button>
 </body>
 </html>
