@@ -4,6 +4,9 @@ document.addEventListener("DOMContentLoaded", () => {
 
 function LoadAndBrowse() {
 
+    const allItems = document.querySelectorAll(".blog-browser-item");
+    for(let a = 0; a < allItems.length; a++) allItems[a].remove();
+
     LoadFile("/posts/data/browser.txt")
         .then(rawData => {
             const newData = rawData.replaceAll("\r","").split("\n");
@@ -81,7 +84,7 @@ function ParseBrowserContent(content, id) {
 function DisplayBrowserContent(content) {
     const parent = document.getElementById("placeholder-browser-content");
     let htmlContent = ``;
-    htmlContent += `<div class="blog-browser-item" browse-id="${content.id}">`;
+    htmlContent += `<div class="blog-browser-item" browse-id="${content.id}"">`;
     htmlContent += `<img src="${content.image}" alt="${content.altImage}">`;
     htmlContent += `<h3>${content.title}</h2>`;
     htmlContent += `<p class="author">Written by: <em>${content.author}</em></p>`;

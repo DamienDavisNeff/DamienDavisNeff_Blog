@@ -71,9 +71,11 @@ function SetContent(content, id) {
     parent.innerHTML = content;
 }
 
-function LoadAndRun() {
+function LoadAndRun(idOverride) {
     const url = new URL(window.location.href);
     let articleID = url.searchParams.get("id");
+
+    if(idOverride != undefined) articleID = idOverride;
 
     if(articleID != undefined) {
         LoadAndParsePost(articleID);

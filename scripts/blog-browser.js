@@ -15,6 +15,33 @@ document.getElementById("browse-right").addEventListener("click", () => {
     UpdateBrowser();
 });
 
+let browseEvents = [];
+function UpdateBrowserEvents() {
+
+    for(let a = 0; a < browseEvents.length; a++) {
+        browseEvents[a].removeEventListener("click", browseHandleClickEvent);
+    }
+
+    const items = document.getElementsByClassName("blog-browser-item");
+    for(let a = 0; a < items.length; a++) {
+        items[a].addEventListener("click", browseHandleClickEvent);
+        browseEvents.push(items[a]);
+    }
+
+}
+function browseHandleClickEvent(event) {
+
+    const parentDiv = event.target.closest(".blog-browser-item");
+    if(!parentDiv) return;
+
+    const browseID = parentDiv.getAttribute("browse-id");
+    LoadAndRun(browseID);
+
+    LoadAndBrowse();
+    UpdateBrowser();
+
+}
+
 let currentActive = [];
 let currentInactive = [];
 function UpdateBrowser() {
@@ -44,6 +71,7 @@ function UpdateBrowser() {
     currentInactive = inactiveItems;
 
     DisplayItems(allItems, currentActive, currentInactive);
+    UpdateBrowserEvents();
 
 }
 
