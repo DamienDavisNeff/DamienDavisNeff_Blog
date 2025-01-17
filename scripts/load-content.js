@@ -1,15 +1,3 @@
-function LoadFile(url) {
-    return new Promise((resolve, reject) => {
-        fetch(url)
-            .then(response => {
-                if(!response.ok) throw new Error(`ERROR STATUS: ${response.status}`);
-                return response.text();
-            })
-            .then(text => resolve(text))
-            .catch(e => reject(e));
-    });
-}
-
 function ContentToHTML(content) {
     // console.log(content.split("\n"));
     contentByLine = content.split("\n");
@@ -33,8 +21,8 @@ function ContentToHTML(content) {
             continue;
         }
         if(contentByLine[line].startsWith("Date: ")) {
-            const authorContent = contentByLine[line].replace("Date: ","");
-            htmlContent+= `<p class="date">Published on: <em>${authorContent}</em></p>`;
+            const dateContent = contentByLine[line].replace("Date: ","");
+            htmlContent+= `<p class="date">Published on: <em>${dateContent}</em></p>`;
             continue;
         }
         if(contentByLine[line].startsWith("![")) {
@@ -83,8 +71,7 @@ function SetContent(content, id) {
     parent.innerHTML = content;
 }
 
-document.addEventListener("DOMContentLoaded", () => {
-
+function LoadAndRun() {
     const url = new URL(window.location.href);
     let articleID = url.searchParams.get("id");
 
@@ -111,7 +98,16 @@ document.addEventListener("DOMContentLoaded", () => {
                 console.error(error);
             })
     }
+}
 
+document.addEventListener("DOMContentLoaded", () => {
+    document.getElementById("loading").hidden = false;
+    try {
+        LoadAndRun();
+    } catch(error) {
+        document.getElementById("error").hidden = false;
+    }
+    document.getElementById("loading").hidden = true;
 })
 
 function LoadAndParsePost(blogID) {
