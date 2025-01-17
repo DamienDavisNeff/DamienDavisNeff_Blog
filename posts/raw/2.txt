@@ -1,0 +1,57 @@
+// FORMATTING IS AS FOLLOWS!
+
+// // COMMENT
+
+// # Title
+// Author: Name 
+// Date: 1/1/1
+// ## Subtitle
+// ![AltText](image/source)
+// -!- Image Caption
+// -#! Image Source
+// -# Sources 
+// -#- Number. Source Title: [Source Name](source.link)
+// -*- Superscript, for sources - in regular content only
+// <<video_url>> // youtube video embed, not yet supported
+
+# DEBUG2
+Author: Damien Davis-Neff
+Date: 1/8/25
+
+![The capitol building being assaulted by a mob of Trump's supporters on Jan. 6th, 2021](https://upload.wikimedia.org/wikipedia/commons/1/16/2021_storming_of_the_United_States_Capitol_2021_storming_of_the_United_States_Capitol_DSC09363-2_%2850820534723%29.jpg)
+-! The insurrection on January 6th, 2021.
+-#! Tyler Merbler from USA, CC BY 2.0 via Wikimedia Commons
+
+## Politics & Progress 
+
+Political beliefs are complex, and I've experienced a huge shift in mine over the past half-decade or so. That journey didn't follow a smooth, predictable path, it was a series of realizations and moments that forced me to take a hard look at the beliefs I once held as absolute truth.
+
+Let's start at the beginning. 2016, when I was just 10 years old, still in elementary school. It was Hillary Clinton vs Donald Trump. Every single morning, I'd watch the news, mainly for the weather, before school. During this, I heard terrible things about both candidates. 
+
+The Hilary emails, the alleged Russia collusion, mass deportation, the list goes on. There was one thing that was the most troubling to me, however. <em>"And when you're a star, they let you do it.-*-1-*-"</em> Beyond disgusted, even at just 10 years old, I understood the gravity of what he was saying in that clip. That stuck with me, and anytime somebody in school even mumbled something about the election, I would bring up my, quite frankly, uneducated views on the subject. 
+
+After the election, it left my mind. I was just a kid, <em>"Who cares about politics?"</em> I said. <em>"It doesn't impact me."</em>
+
+Flash forward to middle school, 2017. Kim Jong Un was setting rockets off in the ocean, and Trump took a stand. I remember hearing about it in class, on CNN 10, from time to time. The threats, the talks of diplomacy, <em>"They will be met with fire and fury like the world has never seen...-*-2-*-"</em> he had said. It was high stakes, and I wasn't fully aware of the implications, but it caught my attention. Trump wasn't backing down, and to me, it felt like he was doing what was needed to help America. 
+
+That was the new narrative that I was fed, Trump was a strong leader, willing to push boundaries, was charming, and funny at times. <em>"Little Rocket Man"</em> is what he called him, before later meeting him inside of North Korea, the first time a sitting president had done that. History. He had made history, but he failed to come to a deal.-*-3-*- And later, in an attempt to appease North Korea, stopped U.S. military exercises in South Korea-*-4-*-, which had little to no benefit - of course, at the time I had no knowledge of this, and continued to be in awe of Trump for strong arming North Korea.
+
+Continuing through time we end up in March of 2020, historically a.. rough patch for a lot of people. The COVID-19 pandemic hit, and everything came to a halt. Schools were closed, businesses shut down, and everybody felt uncertain about everything. But me, I thrived. I got into the best shape of my life and spent my time doing what I enjoyed most. It was around this time I got heavily into politics, but I continued down the misguided path that I was before. Despite Trump's handling of the Pandemic, that left hundreds of thousands, and eventually over a million people dead-*-5-*-, I believed he did the best possible job, while retaining a good economy. In hindsight, this was clearly not the case, hundreds of thousands dead, millions of jobs lost-*-6-*-. 
+
+These, alongside many other things during the Administration, eventually led to his downfall in the election of 2020, losing in a landslide. It wasn't long before the lies began. Him and his team began to claim, without any credible evidence, that the election was stolen, and full of fraud. I, alongside many of his supporters, trusted his word beyond everything else.
+
+Then came January 6th. If you are somehow unfamiliar with the events of that day, I highly recommend <a href="https://www.youtube.com/watch?v=hyIR1vxIcGk" target="_blank">VICE's special report</a>-*-7-*- on it. We witnessed a violent assault on our capitol in an attempt to overturn the certification of Donald Trump’s election loss. For hours Trump refused to address the nation or send support to the failing defenses, instead opting to send inflammatory tweets that further radicalized the mob. Even this wasn't enough to sway me, I was lied to, blatantly, and I believed it. Instead of questioning the flawed logic, I clung to the rhetoric.
+
+Since then I've learned more about what actually happened during the Administration - what actually happened on that day, and it troubled me. It led me down a drastically different path, from once considering myself a hardline conservative, to now considering myself a far left liberal working everyday to help others.
+
+I plan on going into much more detail in the future, so stay tuned for that.
+
+-# Sources
+-#- 1. "When you're a star": [Wikipedia/Donald Trump Access Hollywood Tapes](https://en.wikipedia.org/wiki/Donald_Trump_Access_Hollywood_tape)
+-#- 2. "Fire and fury": [CNN/Trump's "fire and fury" remark was improvised](https://www.cnn.com/2017/08/09/politics/trump-fire-fury-improvise-north-korea/index.html)
+-#- 3. "No Deal": [Arms Control Association/The Disappointing "No Deal" Result](https://www.armscontrol.org/blog/2019-02-28/disappointing-not-devastating-no-deal-result-hanoi-summit)
+-#- 4. "Stopped military exercises in South Korea": [The Guardian/US to suspend military exercises](https://www.theguardian.com/us-news/2018/jun/12/us-to-suspend-war-games-with-south-korea-donald-trump-kim-jong-un-north-summit)
+-#- 5. "A million people dead": [WHO/COVID-19 Deaths, United States](https://data.who.int/dashboards/covid19/deaths)
+-#- 6. "Millions of jobs lost": [BLS/Employment Statistics Survey](https://data.bls.gov/timeseries/CES0000000001)
+-#- 6. "Lies began": [CNN/Fact check, Trump makes series of false claims](https://www.cnn.com/2020/11/04/politics/fact-check-trump-election-night-speech/index.html)
+-#- 7. "187 Minutes": [VICE/Special Report](https://www.youtube.com/watch?v=hyIR1vxIcGk)
