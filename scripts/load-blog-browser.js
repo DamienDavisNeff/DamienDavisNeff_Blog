@@ -7,7 +7,7 @@ function LoadAndBrowse() {
     const allItems = document.querySelectorAll(".blog-browser-item");
     for(let a = 0; a < allItems.length; a++) allItems[a].remove();
 
-    LoadFile("posts/data/browser.txt")
+    LoadFile("/blog/posts/data/browser.txt")
         .then(rawData => {
             const newData = rawData.replaceAll("\r","").split("\n");
             const parsedData = [];
@@ -32,7 +32,7 @@ function LoadAndBrowse() {
 function LoadBlogPosts(posts) {
     
     const blogPromise = posts.map(post => {
-        return LoadFile(`posts/raw/${post}`)
+        return LoadFile(`/blog/posts/raw/${post}`)
             .then(content => ParseBrowserContent(content, post.replace(".txt","")))
             .then(postData => {
                 DisplayBrowserContent(postData);
