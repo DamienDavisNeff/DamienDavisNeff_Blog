@@ -1,0 +1,76 @@
+// FORMATTING IS AS FOLLOWS!
+
+// // COMMENT
+
+// # Title
+// Author: Name 
+// Date: 1/1/1
+// ## Subtitle
+// ![AltText](image/source)
+// -!- Image Caption
+// -#! Image Source
+// -# Sources 
+// -#- Number. Source Title: [Source Name](source.link)
+// -*- Superscript, for sources - in regular content only
+// <<video_url>> // youtube video embed, not yet supported
+
+
+# Developing #1: This Blog
+Author: Damien Davis-Neff
+Date: 1/17/25
+
+![Sceenshot of Javascript Code](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Programming_code.jpg/800px-Programming_code.jpg)
+-#! Martin Vorel, CC BY 4.0 via Wikimedia Commons
+
+## Why?
+
+As someone with ADHD, I often find myself distracted by complexities in software, exploring and experimenting with it. As such, when building this blog, I wanted to avoid unnessasary frameworks that might pull me in different directions with new features. Instead, I decided to build my own modular system for writing blogs - one that would be free of distractions, with only the feature set I need. Hopefully, this allows me to write without getting sidetracked. 
+
+The goal was pretty straightforward: I wanted to create a blog where I could focus on the content - without worrying too much about formatting, or complex pages. In my system, I have a single text file with formatting similar to markdown. With a little bit of help from JavaScript, the simple text file gets parsed  into something beautiful, without the complexities of styling HTML. With everything being limited to the single text file, I stay distraction free, while ensuring everything gets done correctly.
+
+## The Features
+
+Here's a run down on the formatting features, before I dig into how they are implemented:
+
+<style>af { color: lime; } </style>
+<af> // COMMENTS </af>
+<af> # Titles </af>
+<af> Author: Name </af> - "Author:" is the identifier for this!
+<af> Date: MM/DD/YYYY </af> - "Date:" is the identifier for this!
+<af> ## Subtitles </af>
+<af> ![Images with alt-text](with/simple_sources) </af>
+<af> -!- Captions for the Images </af>
+<af> -#! Image Sources </af>
+<af> -# Source Headers </af>
+<af> -#- 1. Sources with Titles: [Names](and.links) </af> - The formatting is very important for sources, one wrong move and everything explodes (quite inefficiently)
+<af> -*- and superscripts (mainly for sources) </af>
+
+As you can see, these are loosely based on a limited feature set from markdown, but modified to fit into my use case. The fun part of my system also allows me to use any regular HTML in this file as well, for even more flexibility while still maintaining readability.
+
+## File Parsing
+
+Parsing the file is actually quite simple, but probaly not the most efficient method. First I fetch the file, and go through line by line. For each line, I check beginning for the identifiers (things like <b>#</b> and <b>-#</b>). Once they are identified, I replace it with the corresponding HTML element.
+
+Not every element works by just checking the beginning of the line. There are inline modifiers that need to be checked as well. Right now, this is only superscripts, but in the future, this will probably expand to links (even though now, I just write the tags manually). Anyways, for these a check at the beginning wouldn't suffice, I needed a little more flexibility.
+
+For these cases, I use regular expressions to scan the entire line. I then replace the identifiers wherever they appear, no matter where they appear.
+
+## The Complexities
+
+The hardest part about this project was implementing a effective (not efficient) way to browse posts. For my use case, I created a system where you can scroll through posts by shifting them left or right in an array.
+
+1. I load all the browsable posts through <span style="opacity: 0.6">/posts/data/raw/browser.txt</span>.
+2. The posts are loaded similarly to regular page loading, but with the fluff removed - only the first image, the title, author, and date are loaded. 
+3. The first of the posts are moved into an active section to be visible, while the rest are placed in a hidden section. 
+4. To manage browsing, I rely on an two arrays - one for active and one for inactive sections. Using manipulation methods like <span style="opacity: 0.6">shift()</span>, I move the posts between the arrays. I had trouble with this at first, as I wasn't really familiar with these functions. 
+5. I then use those arrays to move the elements between the two sections, and display new active ones. 
+
+Through this, I learned quite a bit about manipulating arrays in JavaScript, which will probably come in handy. I also picked up a bit about event handling, but not enough to go over here. 
+
+One of the reasons I decided to build my own framework for this project was for the learning experience. It's the same motivation behind my attempt at a <a href="https://github.com/DamienDavisNeff/2DEngine" target="_blank">2D engine using canvases</a>, mainly to learn more about canvases, classes, and constructors. Maybe I'll write a post about that at some point - but I'm getting distracted.
+
+## The Conclusion; and why build a blog in particular? 
+
+The project wasn't just about creating a blog; it was about creating a space to freely express myself. I built it so I'd have a place to yap about politics, unfiltered and without worrying about character limits or algorithms. I'll be ablke to speak casually, or dive deeper into topics that are both interesting and important. 
+
+At the same time, it was a learning experience. Blogs combine so many aspects of development, like parsing files, managing dynamic content, and general interface design. Tackling these taught me quite a bit more about JavaScript on both the front and backend, giving me more tools for bigger projects.
