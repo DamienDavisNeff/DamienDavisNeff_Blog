@@ -16,7 +16,7 @@
 
 # A Political Journey
 Author: Damien Davis-Neff
-Date: 1/8/25
+Date: 1/10/25
 
 ![The capitol building being assaulted by a mob of Trump's supporters on Jan. 6th, 2021](https://upload.wikimedia.org/wikipedia/commons/1/16/2021_storming_of_the_United_States_Capitol_2021_storming_of_the_United_States_Capitol_DSC09363-2_%2850820534723%29.jpg)
 -! The insurrection on January 6th, 2021.
@@ -47,11 +47,11 @@ Since then I've learned more about what actually happened during the Administrat
 I plan on going into much more detail in the future, so stay tuned for that.
 
 -# Sources
--#- 1. "When you're a star": [Wikipedia/Donald Trump Access Hollywood Tapes](https://en.wikipedia.org/wiki/Donald_Trump_Access_Hollywood_tape)
--#- 2. "Fire and fury": [CNN/Trump's "fire and fury" remark was improvised](https://www.cnn.com/2017/08/09/politics/trump-fire-fury-improvise-north-korea/index.html)
--#- 3. "No Deal": [Arms Control Association/The Disappointing "No Deal" Result](https://www.armscontrol.org/blog/2019-02-28/disappointing-not-devastating-no-deal-result-hanoi-summit)
--#- 4. "Stopped military exercises in South Korea": [The Guardian/US to suspend military exercises](https://www.theguardian.com/us-news/2018/jun/12/us-to-suspend-war-games-with-south-korea-donald-trump-kim-jong-un-north-summit)
--#- 5. "A million people dead": [WHO/COVID-19 Deaths, United States](https://data.who.int/dashboards/covid19/deaths)
--#- 6. "Millions of jobs lost": [BLS/Employment Statistics Survey](https://data.bls.gov/timeseries/CES0000000001)
--#- 6. "Lies began": [CNN/Fact check, Trump makes series of false claims](https://www.cnn.com/2020/11/04/politics/fact-check-trump-election-night-speech/index.html)
--#- 7. "187 Minutes": [VICE/Special Report](https://www.youtube.com/watch?v=hyIR1vxIcGk)
+-#- 1. "When you're a star": [Wikipedia / Donald Trump Access Hollywood Tapes](https://en.wikipedia.org/wiki/Donald_Trump_Access_Hollywood_tape)
+-#- 2. "Fire and fury": [CNN / Trump's "fire and fury" remark was improvised](https://www.cnn.com/2017/08/09/politics/trump-fire-fury-improvise-north-korea/index.html)
+-#- 3. "No Deal": [Arms Control Association / The Disappointing "No Deal" Result](https://www.armscontrol.org/blog/2019-02-28/disappointing-not-devastating-no-deal-result-hanoi-summit)
+-#- 4. "Stopped military exercises in South Korea": [The Guardian / US to suspend military exercises](https://www.theguardian.com/us-news/2018/jun/12/us-to-suspend-war-games-with-south-korea-donald-trump-kim-jong-un-north-summit)
+-#- 5. "A million people dead": [WHO / COVID-19 Deaths, United States](https://data.who.int/dashboards/covid19/deaths)
+-#- 6. "Millions of jobs lost": [BLS / Employment Statistics Survey](https://data.bls.gov/timeseries/CES0000000001)
+-#- 6. "Lies began": [CNN / Fact check, Trump makes series of false claims](https://www.cnn.com/2020/11/04/politics/fact-check-trump-election-night-speech/index.html)
+-#- 7. "187 Minutes": [VICE / Special Report](https://www.youtube.com/watch?v=hyIR1vxIcGk)
