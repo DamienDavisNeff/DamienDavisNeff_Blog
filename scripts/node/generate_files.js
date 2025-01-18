@@ -113,6 +113,7 @@ function GenerateHTMLPage(content, fullFilePath) {
                 <script src="/blog/scripts/single-page/blog-browser.js"></script>
                 <button onclick="toggleDarkMode();" id="darkModeButton" hidden>Toggle Dark Mode</button>
             </body>
+            <!-- This file was automatically generated -->
         </html>
     `;
 
@@ -142,7 +143,7 @@ fs.readFile(contentFile, "utf8", (err, data) => {
             console.log("HTML file generated successfully!");
         }
     });
-    
+
 });
 
 module.exports = GenerateHTMLPage;
