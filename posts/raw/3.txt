@@ -17,7 +17,7 @@
 
 # Developing #1: This Blog
 Author: Damien Davis-Neff
-Date: 1/17/25
+Date: 1/18/25
 
 ![Sceenshot of Javascript Code](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Programming_code.jpg/800px-Programming_code.jpg)
 -#! Martin Vorel, CC BY 4.0 via Wikimedia Commons
