@@ -5,25 +5,25 @@
     --base-font-size: 1rem;
     --heading-font-size: 2.5rem;
     --subheading-font-size: 1.8rem;
-
-    --text-color: #555;
-    --heading-color: #333;
-    --subheading-color: #444;
+    
+    --text-color: #ccc;
+    --heading-color: #e1e1e1;
+    --subheading-color: #bbb;
     --image-subtitle-color: #888;
-    --author-color: #777;
-    --date-color: #999;
-    --link-color: #007BFF;
-
-    --body-background-color: #f9f9f9;
-    --background-color: #f9f9f9;
-
+    --author-color: #aaa;
+    --date-color: #777;
+    --link-color: #4c9bff;
+    
+    --body-background-color: #010101;
+    --background-color: #020202;
+    
     --border-radius: 3px;
     --margin: 20px;
     --padding: 20px;
     --max-width: 800px;
-
-    --post-background-color: #ffffff;
-    --post-box-shadow: rgba(0, 0, 0, 0.1);
+    
+    --post-background-color: #020202;
+    --post-box-shadow: rgba(255, 255, 255, 0.6);    
 
     --default-transition-duration: 250ms;
 
@@ -67,7 +67,6 @@ body {
     margin: var(--margin);
     padding: var(--padding);
     max-width: var(--max-width);
-    background-color: var(--background-color);
     border-radius: var(--border-radius);
 }
 
@@ -128,6 +127,8 @@ body {
 }
 #blog-content .source {
     margin-left: 20px;
+    color: var(--author-color);
+
 }
 #blog-content a {
     color: var(--link-color);
@@ -157,7 +158,7 @@ body {
     background-color: var(--post-background-color);
     padding: var(--padding);
     border-radius: var(--border-radius);
-    box-shadow: var(--post-box-shadow);
+    border: 1px solid var(--post-box-shadow);
     max-width: calc(0.75 * 33.333% - var(--margin)); /* Three items per row */
     display: flex;
     flex-direction: column;
