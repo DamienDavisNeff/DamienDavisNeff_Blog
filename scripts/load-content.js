@@ -92,7 +92,7 @@ function LoadAndRun(idOverride) {
             }
             return;
         }
-        LoadFile("/posts/data/latest.txt")
+        LoadFile("posts/data/latest.txt")
             .then(latestID => {
                 LoadAndParsePost(latestID);
             })
@@ -113,7 +113,7 @@ document.addEventListener("DOMContentLoaded", () => {
 })
 
 function LoadAndParsePost(blogID) {
-    LoadFile(`/posts/raw/${blogID}.txt`)
+    LoadFile(`posts/raw/${blogID}.txt`)
         .then(content => {
             // console.log(content);
             return content;
