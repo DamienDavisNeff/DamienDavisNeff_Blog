@@ -165,6 +165,7 @@ body {
     align-items: center;
     justify-content: center;
     transition-duration: var(--default-transition-duration);
+    cursor: pointer;
 
 }
 .blog-browser-item:hover {
