@@ -1,0 +1,70 @@
+// FORMATTING IS AS FOLLOWS!
+
+// // COMMENT
+
+// # Title
+// Author: Name 
+// Date: 1/1/1
+// ## Subtitle
+// ![AltText](image/source)
+// -!- Image Caption
+// -#! Image Source
+// -# Sources 
+// -#- Number. Source Title: [Source Name](source.link)
+// -*- Superscript, for sources - in regular content only
+// <<video_url>> // youtube video embed, not yet supported
+
+# Donald Trump vs Immigrants
+Author: Damien Davis-Neff
+Date: 1/19/25
+
+![The United States / Mexico border wall](https://upload.wikimedia.org/wikipedia/commons/f/f2/U.S_-_Mexico_Border_Wall.jpg)
+-! The wall at the United States and Mexico Border in San Diego. 
+-#! Amyyfory, CC BY-SA 4.0
+
+It seems that the Trump Administration plans on following through with their mass deportation plan as early as Tuesday morning, the day after President Trump assumes power. This raises not only ethical concerns, but concerns for the economy as a whole. 
+
+## The Economic Impacts of Mass Deportations
+
+Studies have consistently shown that deportations have a negative impact on both the economy and job market. When such large-scale deportations occur, businesses that usually depend on immigrant labor suffer. Research has shown that for every million undocumented immigrants deported resulted in the loss of 88,000 jobs for native-born Americans-*-1-*- - particularly those with lower education levels. Businesses that rely on immigrant customers also face sudden shocks to their demand, resulting in financial setbacks that reduce their expansion and revenue - and with less revenue, comes less tax revenue. 
+
+Immigrants contribute significantly to the United States economy, making up 18% of the workforce and pay more in taxes than they receive in benefits-*-2-*- - despite what some members of my extended family pretend to know with absolute certainty. They fill essential jobs that many Americans are unwilling to take and they create more demand in local economies, leading to more jobs being created. That is to say, rather than taking jobs away from Americans, they are contributing with their tax revenue and creating more jobs for Americans.-*-3-*- 
+
+## Trump vs Biden-Harris
+
+One of the key issues with Trump's strategies is his successful attempt at blocking a bipartisan border security bill before the election.-*-4-*- So regardless of whether or not his policies benefit society (which, as we went over, they don't), could we really trust him to solve the issue he actively hindered before taking office? 
+
+![Alberto Fernández and Joe Biden, with their spouses Fabiola Yánez and Jill Biden, at the IX Summit of the Americas](https://upload.wikimedia.org/wikipedia/commons/9/92/Alberto_Fern%C3%A1ndez_and_Joe_Biden_at_the_opening_of_the_IX_Summit_of_the_Americas_%281%29.jpg)
+-! Alberto Fernández and Joe Biden at the opening of the IX Summit of the Americas
+-#! Casa Rosada, CC BY 2.5 AR
+
+Instead of attacking the border directly, the Biden-Harris Administration, since day 1, focused on addressing immigration at its source. They worked to reduce unlawful immigration by brokering deals with other countries to create easier paths to citizenship from neighboring countries.-*-5-*- This approach is far more effective, as instead of working to prevent people from crossing, or clogging up the system with their claims - these migrants get access to a better life, closer to home. And it worked - these changes, alongside other crackdowns from these nations, have led to significant drops in immigration from these source countries.-*-6-*-
+
+As Vice President Harris said, "if we're going to care about the issues at the border, we need to care about the root causes, and that's what I'm doing." In investing in these long term solutions, Biden's administration managed to reduce immigration more effectively than mass deportation could, and while the numbers aren't fantastic, they're dropping.
+
+## The Human Cost
+
+Trump's deportation plan, even if it worked well, raises concerns about ethics. It targets every undocumented migrant, indiscriminately, including those who are a benefit to society. As we went over, typically undocumented immigrants contribute more in taxes than they receive in benefits; they also commit crimes at a significantly lower rate than both documented immigrants and natural born citizens. These individuals aren't just contributing economically, but making their communities safer.-*-7-*-
+
+![A graph showing the crime rate of individuals by documentation status](https://nij.ojp.gov/sites/g/files/xyckuh171/files/images/2024-09/ex2-violent-crime-offending-rates-by-citizenship-documentation-2012-2018.jpg)
+-! Exhibit A.
+![A graph showing the violent crime rate of individuals by documentation status](https://nij.ojp.gov/sites/g/files/xyckuh171/files/images/2024-09/ex1-overall-offending-rates-by-citizenship-documentation-status-2012-2018.jpg)
+-! Exhibit B.
+-! Exhibit A shows the general crime rate by documentation status, showing both documented and undocumented immigrants committing crimes at a lower rate. Exhibit B. shows similar data, but with violent crime.
+-#! National Institute of Justice
+
+
+## So what?
+
+Trump's plan will fail, it ignores the economic and social impacts of immigration, ignores the root causes, and disregards long term solutions. It exacerbates current problems, hurting both immigrants and natural born citizens. This contrasts with the Biden Administration's more thoughtful approach, plugging the hole at the leak, instead of building a dam downstream - helping immigrants both at home, and here. Compassion, reform, and investment in our systems is the way forward, not pain and suffering.
+
+<br>
+
+-# Sources
+-#- 1. "Every million undocumented immigrants deported resulted in the loss of 88,000 jobs": [IZA / The Labor Market Effects of Immigration Enforcement](https://docs.iza.org/dp11486.pdf)
+-#- 2. "Pay more in taxes than they receive in benefits": [National Academies / New Report Assesses the Economic and Fiscal Consequences of Immigration, from the National Academies of Sciences, Engineering, and Medicine](https://www.nationalacademies.org/news/2016/09/new-report-assesses-the-economic-and-fiscal-consequences-of-immigration)
+-#- 3. "Contributing with their tax revenue and creating more jobs for Americans": [Migration Policy / Explainer Immigrants and the U.S. Economy](https://www.migrationpolicy.org/content/explainer-immigrants-and-us-economy)
+-#- 4. "Blocking a bipartisan border security bill": [NBC News / Senate Republicans block border security bill as they campaign on border chaos](https://www.nbcnews.com/politics/congress/senate-republicans-block-border-security-bill-campaign-border-chaos-rcna153607)
+-#- 5. "Create easier paths to citizenship from neighboring countries": [NYT Opinion / If You Think Biden and Harris Were Weak on the Border, Think Again](https://youtu.be/HyzGkEV3p2g?si=qJLEwd0R31FsqNmt&t=430)
+-#- 6. "Significant drops in immigration from these source countries": [NYT Opinion - See Above, Manhattan Institute / Unique Encounters of Venezuelans Along The Southern Border](https://youtu.be/HyzGkEV3p2g?si=YkLxMZ_D6mAZghmo&t=482)
+-#- 7. "Commit crimes at a significantly lower rate": [National Institute of Justice / Undocumented Immigrant Offending Rate Lower Than U.S.-Born Citizen Rate](https://nij.ojp.gov/topics/articles/undocumented-immigrant-offending-rate-lower-us-born-citizen-rate)
