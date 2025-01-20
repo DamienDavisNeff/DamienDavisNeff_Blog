@@ -72,8 +72,3 @@
 #blog-content a:hover {
     text-decoration: underline;
 }
-
-/* Prevent content from overlapping the fixed footer */
-#blog-content {
-    padding-bottom: 80px; 
-}
