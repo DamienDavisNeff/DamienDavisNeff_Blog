@@ -91,7 +91,10 @@ function GenerateHTMLPage(content, fullFilePath) {
                 <meta property="og:image" content="${metaImage || "/default-image.png"}">
                 <meta property="og:author" content="${metaAuthor || "Unknown Author"}">
                 <meta property="og:type" content="article">
-                <link rel="stylesheet" href="/blog/style/index.css">
+                <link rel="stylesheet" href="/blog/style/root.css">
+                <link rel="stylesheet" href="/blog/style/blog-content.css">
+                <link rel="stylesheet" href="/blog/style/blog-browser.css">
+                <link rel="stylesheet" href="/blog/style/other.css">
                 <script src="/blog/scripts/root.js"></script>
                 <script src="/blog/scripts/dark-mode-manager.js"></script>
             </head>

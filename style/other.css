@@ -1,0 +1,64 @@
+/* Prevent content from overlapping the fixed footer */
+#blog-content {
+    padding-bottom: 80px; 
+}
+
+
+
+#darkModeButton {
+    position: fixed;
+    top: 10px;
+    right: 10px;
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+#footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    padding: 20px;
+    background-color: var(--background-color);
+    border-radius: var(--border-radius);
+    text-align: center;
+    box-shadow: 0 -4px 6px rgba(0, 0, 0, 0.1);
+    font-size: 0.875rem;
+    z-index: 10;  /* Keeps it above other content */
+}
+
+#footer #socials {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin-bottom: 10px;
+}
+
+#footer #socials i {
+    font-size: 1.5rem;
+    color: var(--link-color);
+    transition: color 0.3s ease;
+}
+
+#footer #socials i:hover {
+    color: var(--heading-color);
+}
+
+#footer #copyright {
+    color: var(--text-color);
+}
+
+#footer #copyright a {
+    color: var(--link-color);
+    text-decoration: none;
+}
+
+#footer #copyright a:hover {
+    text-decoration: underline;
+}
+
