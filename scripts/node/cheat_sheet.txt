@@ -1,0 +1,8 @@
+COPY ME TO GENERATE NEW FILES 👇
+node generate_all_files.js ../../posts/raw ../../posts
+COPY ME TO REGENERATE ALL FILES 👇
+node generate_all_files.js ../../posts/raw ../../posts -fg
+COPY ME (AND MODIFY) TO GENERATE NEWS FILES + RECREATE ONE 👇
+node generate_all_files.js ../../posts/raw ../../posts -f [ID]
+COPY ME (AND MODIFY) TO GENERATE ONE FILE 👇
+node generate_files.js ../../posts/raw/[ID].txt ../../posts/[ID].html
