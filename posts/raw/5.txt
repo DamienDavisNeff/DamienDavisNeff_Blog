@@ -6,32 +6,78 @@ Date: 1/19/25
 -! Donald Trump's inaugural portrait, 2025.
 -#! Daniel Torok, Public Domain
 
-- close the border
-https://www.npr.org/2025/01/20/g-s1-43698/trump-inauguration-executive-orders-2025-day-1
-- mass deportations
-https://www.wsj.com/politics/policy/trump-to-begin-large-scale-deportations-tuesday-e1bd89bd
-    - american business immigration estimates agriculutural output to fall 30-60 billion
-    https://www.newsweek.com/donald-trump-mass-deportation-farmers-1987371
-    - american immigration council says mass deportations reduce the gdp by up to 6.8%, and deprive the country of 49 billion in taxes
-    https://www.americanimmigrationcouncil.org/research/mass-deportation
-    - as ive touched on, us workers also lose their jobs when immigrants do, 44k us born workers could lose jobs for every 500k immigrants 
-    https://docs.iza.org/dp11486.pdf
-- mass firing of federal staffers, who disagree with him
-https://www.washingtonpost.com/business/2025/01/19/trump-federal-workforce-executive-orders/
-- an attempt to end birthright citizenship
-https://www.foxnews.com/politics/trump-end-birthright-citizenship-children-illegal-immigrants-via-executive-order
-    - such attempts are unconstitutional, under the 14th amendment "All persons born or naturalized in the United States ... are citizens of the United States"
-    - exceptions to this are narrow, and only apply when the parents are not bound by us law at the time of the birth, which essentially applies to those with diplomatic immunity "... and subject to the jurisdicition thereof ..."
-    https://constitution.congress.gov/constitution/amendment-14/
-- muslim country travel bans reimplemented
-https://time.com/7022828/trump-travel-ban-refugees-gaza
-- revoke the visas of protestors
-https://www.wdsu.com/article/international-students-urged-return-to-us-campuses-before-trump-inauguration/63254111
-- extend tax cuts, which will result in higher debt, costing 5 trillion over the next 10 years
-https://www.nytimes.com/2025/01/17/business/us-debt-republicans-tax-cuts.html
-- pardon j6 criminals
-https://www.cnn.com/2025/01/20/politics/january-6-2021-capitol-riot-pardons-trump/index.html
-- eliminate green energy subsidies
-https://www.wbaltv.com/article/trump-second-term-first-100-days/63447781
-- defunding / closing the department of education
-https://rncplatform.donaldjtrump.com/?_ga=2.39958567.429518507.1736974731-365296484.1736974731
+President Trump has once again assumed the power of the Presidency, and has already signed multiple executive orders. What else should we expect out of his administration?
+
+## January 6th
+
+![The capitol building being assaulted by a mob of Trump's supporters on Jan. 6th, 2021](https://upload.wikimedia.org/wikipedia/commons/1/16/2021_storming_of_the_United_States_Capitol_2021_storming_of_the_United_States_Capitol_DSC09363-2_%2850820534723%29.jpg)
+-! The insurrection on January 6th, 2021.
+-#! Tyler Merbler from USA, CC BY 2.0 via Wikimedia Commons
+
+President Trump has pardoned over 1,000 people charged in connection to the attacks on the capital carried out on January 6th, 2021. He also commuted the sentence of several key figures who organized the attack.-*-1-*- This is a disgrace to the nation, but not surprising coming from the party of 'law and order.'
+
+## The Border
+Starting at the border, President Trump will immediately close it to all immigrants-*-2-*-, and to ensure compliance, intends on sending troops there.-*-3-*- He will follow this up with mass deportations,-*-4-*- starting with foreign gang members using the Alien Invasions Act.-*-5-*- In addition to that, he will designate drug cartels as foreign terrorist organizations.-*-6-*-
+
+These mass deportations are problematic, both ethically and economically. It is ethically dubious to rip upstanding citizens from their communities, and will harm the economy - reducing the GDP by an estimated 6.8%-*-7-*-, depriving the nation of $49 billion in federal taxes-*-8-*-, and reducing agricultural output by an estimated $30-60 billion.-*-9-*- It also harms individual Americans, for every million immigrants deported, an estimated 88,000 US workers lose their jobs.-*-10-*-
+
+President Trump has rejected the idea that birthright citizenship applies to the children of illegal immigrants.-*-11-*- This will be met with plenty of legal challenges, and even though I'm not a lawyer - in my view, are completely unconstitutional.
+
+<i>"All persons born or naturalized in the United States, and subject to the jurisdiction thereof, are citizens of the United States and of the State wherein they reside."</i> -*-12-*-
+Every person on United States soil is subject to the rule of law, and therefore falls under the jurisdiction of the US, making their children who are born here citizens of the United States. The only exception are foreign diplomats who, under diplomatic immunity, are not subject to the laws of the US, and thus not under our jurisdiction.-*-13-*-
+
+Tangentially related to the border, the President intends on reimplementing travel bans from Muslim countries-*-14-*-, and may potentially revoke visas from protesting students.-*-15-*-
+
+## The Economy
+While immigration significantly impacts the economy, there are various executive orders and other actions that President Trump intends to take to, in his eyes, help the economy. 
+
+Starting with Tax Cuts, President Trump intents on extending and expanding his tax cuts-*-16-*-, which will result in higher debt, costing us approximately $5 trillion over the next decade.-*-16-*- To avoid the increase to the U.S. debt that this would cause, he intends on expanding tariffs and opening up a new agency by the name of the External Revenue Service, to manage foreign dues, including tariffs.-*-17-*- It should be noted that tariffs are not paid by foreign, external nations, but paid by the American company that imports the product.-*-18-*- 
+
+Alongside the External Revenue Service, he intends on opening the Department of Government Efficiency-*-19-*-, ran by Elon Musk, to subdue internal spending. Pledging to bring down inflation from record highs-*-20-*-, he may use this department to curb inflation, as he believes it was caused by overspending.-*-21-*- It is an important note that inflation has resigned greatly, coming down to 3% over the last year.-*-22-*- 
+
+Also related to taxes, President Trump intends on implementing a "no tax on tips" policy,-*-23-*- which will greatly improve the wages of workers, although I believe a better solution would be paying them better in the first place.
+
+## The Environment
+
+The most major policy decision from the Trump Administration relating to the climate, is the withdrawal from the Paris Climate Accord-*-24-*-, an agreement to limit emissions And avoid global temperatures from rising 2°C above pre-industrial levels.-*-25-*- In addition to this withdrawal, President Trump intends on rolling back green energy subsidies-*-26-*- and ending the electric vehicle mandate.-*-27-*-
+
+A supermajority of scientists agree that human-caused climate change is real, and the impacts could be disastrous.-*-28-*-
+
+## Miscellaneous Orders
+
+President Trump intends to defund and/or close the Department of Education, and send regulation back to the states.-*-29-*-  
+
+President Trump may intend on reclaiming the Panama Canal,-*-35-*- and intends on renaming the Gulf of Mexico, to the Gulf of America.-*-30-*-
+
+President Trump has implied the resumption of the death penalty-*-31-*-, and has ordered all documents related to the prosecution of "political opponents" to be preserved, in addition, he has ordered the DOJ to stop the weaponization of the justice system against said opponents-*-32-*- It should be noted that all of the DOJs investigations into President Trump were dropped prior to his inauguration, were not an attack on him for political purposes, and were standard criminal cases investigating his conduct.
+
+Alongside freezing the executive orders that freeze hiring and freeze regulatory work, President Trump intends on redesignating many federal employees as "at-will."-*-33-*- He has also signed an executive order forcing all federal employees to come back to the office.
+
+<br>
+
+-# Sources
+<b>
+This is a developing situation, and as such, the order of these sources may be out of order, and some sources may be outdated. 
+I will try my best to keep an accurate list of sources, and when the article is finalized, put them in the correct order.
+My apologies for the inconvience. 
+</b>
+
+-#- "The Presidential Parade": [Donald J. Trump, YouTube](https://www.youtube.com/watch?v=mOGG-Mrapl8)
+-#- "The 60th Inaugural Ceremony": [Donald J. Trump, YouTube](https://www.youtube.com/watch?v=7mHYtO-kR38)
+-#- "Trump to Begin Large Scale Deportations Tuesday": [Wall Street Journal](https://www.wsj.com/politics/policy/trump-to-begin-large-scale-deportations-tuesday-e1bd89bd)
+-#- "Mass Deportation": [American Immigration Council](https://www.americanimmigrationcouncil.org/research/mass-deportation)
+-#- "Donald Trump's Deportation Plan Causes 'Panic' Among Farmers": [NewsWeek](https://www.newsweek.com/donald-trump-mass-deportation-farmers-1987371)
+-#- "The Labor Market Effects of Immigration Enforcement": [Institute of Labor Economics](https://docs.iza.org/dp11486.pdf)
+-#- "Trump to End Birthright Citizenship via Executive Order": [Fox News](https://www.foxnews.com/politics/trump-end-birthright-citizenship-children-illegal-immigrants-via-executive-order)
+-#- "Fourteenth Amendment": [Constitution of the United States](https://constitution.congress.gov/constitution/amendment-14/)
+-#- "UNITED STATES v. WONG KIM ARK": [Cornell Law](https://www.law.cornell.edu/supremecourt/text/169/649)
+-#- "Trump says He'll Reinstate 'Famous Travel Ban' and Will Ban Refugees From Gaza": [Time](https://time.com/7022828/trump-travel-ban-refugees-gaza)
+-#- "International Students Urged To Return To Campuses Before Trump Inauguration": [WDSU](https://www.wdsu.com/article/international-students-urged-return-to-us-campuses-before-trump-inauguration/63254111)
+-#- "U.S. Faces Record Debt Levels as Republicans Plan Tax Cuts": [New York Times](https://www.nytimes.com/2025/01/17/business/us-debt-republicans-tax-cuts.html)
+-#- "Trump's tariffs; How they work, and who would pay": [Axios](https://www.axios.com/2024/09/28/how-tariffs-work-trump-china)
+-#- "Consumer Price Index": [Beauro of Labor Statistics](https://www.bls.gov/charts/consumer-price-index/consumer-price-index-by-category-line-chart.htm)
+-#- "The Paris Agreement": [United Nations](https://unfccc.int/process-and-meetings/the-paris-agreement)
+-#- "Scientific Consensus, Climate Change": [NASA](https://science.nasa.gov/climate-change/scientific-consensus/)
+-#- "Trump commutes sentences of Proud Boys and Oath Keepers leaders as he pardons over 1,000 January 6 US Capitol rioters": [CNN](https://www.cnn.com/2025/01/20/politics/january-6-2021-capitol-riot-pardons-trump/index.html)
+-#- "RNC Platform": [RNC](https://rncplatform.donaldjtrump.com/?_ga=2.39958567.429518507.1736974731-365296484.1736974731)
+-#- "Trump aides prep executive orders aimed at federal workforce": [The Washington Post](https://www.washingtonpost.com/business/2025/01/19/trump-federal-workforce-executive-orders/)
