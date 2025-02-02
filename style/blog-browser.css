@@ -19,7 +19,7 @@
     padding: var(--padding);
     border-radius: var(--border-radius);
     border: 1px solid var(--post-box-shadow);
-    max-width: calc(0.75 * 33.333% - var(--margin)); /* Three items per row */
+    max-width: calc(0.5 * 33.333% - var(--margin)); /* Three items per row */
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -33,11 +33,9 @@
 }
 
 .blog-browser-item img {
-    max-width: 100%;
+    width: 100%;
     aspect-ratio: 4/3;
     object-fit:cover;
-    max-height: 250px;
-    height: auto;
     border-radius: var(--border-radius);
 }
 
