@@ -7,11 +7,11 @@ function InitBrowser() {
 
 document.getElementById("browse-left").addEventListener("click", () => {
     if(!initialized) return;
-    BrowseLeft();
+    BrowseRight();
 });
 document.getElementById("browse-right").addEventListener("click", () => {
     if(!initialized) return;
-    BrowseRight();
+    BrowseLeft();
 });
 
 let browseEvents = [];
