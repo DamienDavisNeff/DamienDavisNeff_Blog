@@ -6,17 +6,23 @@ Date: 2/13/25
 -! A protest against Trump's mass deportation plan
 -#! Mike Kelner, CC BY 2.0
 
-During the 2024 election, young voters favored Donald Trump by a significantly greater margin than prior elections, specifically in the range of 18-29 year olds, he lost by 13 points less when comparing to the 2020 election, and 8 points less when compared to the 2016 election.-*-1-*- 
+During the 2024 election, young voters favored Donald Trump by a significantly greater margin than prior elections. Specifically in the range of 18-29 year olds, he lost by 13 points less when comparing to the 2020 election, and 8 points less when compared to the 2016 election.-*-1-*- 
+![Voter favorability by age](/blog/images/posts/8/voterDemographicsPerElection.jpg)
+-#! (1) CNN
 
-Now that the election is over, and we are roughly one month into the Trump Administration, and are already seeing the results of early policy decisions made by President Trump -- both in terms of policy outcomes and public opinion. 70% of the population, which seemingly includes young voters, all agree that Trump is following through with his campaign promises.-*-2-*- This is true across partisan lines, and for better or worse, seems to be accurate.
+Now that the election is over, and are roughly one month into the Trump Administration, we are already seeing the results of early policy decisions made by President Trump — both in terms of policy outcomes and public opinion. 70% of the population, which seemingly includes young voters, all agree that Trump is following through with his campaign promises.-*-2-*- This is true across partisan lines, and for better or worse, seems to be accurate.
+![70% of voters believe Trump is doing what he promised in campaign](https://assets2.cbsnewsstatic.com/hub/i/2025/02/09/874e6bc6-83eb-4df6-a864-a76f406359c6/trump-promises.png?v=905524240eba4a810b7648f150c98fe0)
+-#! (2) CBS News
 
-Despite agreeing that he is following through on campaign promises -- the promises that got these demographics to vote for him -- current polling is also showing that young people are falling back to a heavy dislike of him, dropping down to the lowest point since October of 2024.-*-3-*-
+Despite agreeing that he is following through on campaign promises — the promises that got these demographics to vote for him — current polling is also showing that young people are falling back to a heavy dislike of him, dropping down to the lowest point since October of 2024.-*-3-*-
+![Voter favorability by age, over time](/blog/images/posts/8/voterFavorabilityByAgeOverTime.jpg)
+-#! (3) YouGOV
 
 This indicates, at least to me, that young voters were vastly unaware of the consequences of President Trump's policy proposals, instead focusing on the broad messaging of his campaign. One of the most striking examples I can think of is the situation in Gaza, where many young voters turned away from the Biden/Harris Administration over its strong support of Israel,-*-4-*- which may have been partially to blame for Harris' loss. Now Trump has essentially threatened to deport native Palestinians-*-5-*- and taking "ownership" of Gaza,-*-6-*- which could have resulted in disillusionment from many young voters who either voted for him, a third party, or abstained from voting altogether. 
 
 While this helps us understand the changes that need to be made to the messaging from Democrats going into the 2028 election and 2026 midterms, it does point a quite troubling takeaway from modern-era politics, that I held even before the inauguration, that being 'perception is far more important than reality to most people.'
 
-And that points to an even broader issue -- if perception is what truly matters, those who control perception can start to control reality, and President Trump and the rest of his team have already shown signs of wanting to censor the media -- from threatening the broadcasting license of various media outlets,-*-7-*- to barring the Associated Press from the Oval Office for their refusal to call the Gulf of Mexico the Gulf of America.-*-8-*- This is dangerous behavior that is the precursor to Authoritarianism, and must be taken seriously. We must act now, through legal challenges, protests, and media campaigns -- whatever it takes.
+And that points to an even broader issue — if perception is what truly matters, those who control perception can start to control reality, and President Trump and the rest of his team have already shown signs of wanting to censor the media — from threatening the broadcasting license of various media outlets,-*-7-*- to barring the Associated Press from the Oval Office for their refusal to call the Gulf of Mexico the Gulf of America.-*-8-*- This is dangerous behavior that is the precursor to Authoritarianism, and must be taken seriously. We must act now, through legal challenges, protests, and media campaigns — whatever it takes.
 
 
 -# Sources
